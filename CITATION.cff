@@ -6,6 +6,7 @@ authors:
     family-names: Katoch
     given-names: Anirudh
 cff-version: "1.1.0"
+doi: "10.5281/zenodo.3553421"
 date-released: 2019-11-26
 message: "If you use this software, please cite it using these metadata."
 repository-code: "https://github.com/Luca-spopo/ChEMBL-drug-data-dump"
