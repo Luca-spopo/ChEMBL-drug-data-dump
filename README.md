@@ -12,7 +12,7 @@ For example, to cite release v1.0 using BibTex, use
 ```
 @article{anirudh "luca" katoch_2019, title={Luca-spopo/ChEMBL-drug-data-dump: 25 Nov 2019}, DOI={10.5281/zenodo.3553421}, abstractNote={<p>Initial release, data collected from ChEMBL on 25th Nov 2019</p>}, publisher={Zenodo}, author={Anirudh "Luca" Katoch}, year={2019}, month={Nov}}
 ```
-or IEEE format:
+or plain text:
 ```
-[1]Anirudh "Luca" Katoch, “Luca-spopo/ChEMBL-drug-data-dump: 25 Nov 2019”. Zenodo, 26-Nov-2019.
+Anirudh "Luca" Katoch. (2019, November 26). Luca-spopo/ChEMBL-drug-data-dump: 25 Nov 2019 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3553421
 ```
