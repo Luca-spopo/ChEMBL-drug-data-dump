@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+abstract: "Uses elasticsearch to query data from the ChEMBL (www.ebi.ac.uk/chembl/glados-es) endpoint. Generates a dataset of all related chemical targets (drugs) for a given set of compounds, where the targets have some given constraints on their bioactivities."
+authors: 
+  -
+    family-names: Katoch
+    given-names: Anirudh
+cff-version: "1.1.0"
+date-released: 2019-11-26
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/Luca-spopo/ChEMBL-drug-data-dump"
+title: "ChEMBL-drug-data-dump"
+version: "1.0"
+...
