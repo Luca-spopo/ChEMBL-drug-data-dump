@@ -5,8 +5,8 @@ Uses elasticsearch to query data from the ChEMBL (www.ebi.ac.uk/chembl/glados-es
 
 # How to cite
 
-Please go to https://zenodo.org/badge/latestdoi/224117697 if you want to use this software for your research.
-The page offers conversion to various citation formats.
+Please cite this software using https://zenodo.org/badge/latestdoi/224117697 if you want to use it for your research.
+The linked page offers conversion to various citation formats.
 
 For example, to cite release v1.0 using BibTex, use
 ```
